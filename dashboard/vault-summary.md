@@ -7,14 +7,7 @@
 - Last updated: 
 - Summary: This folder contains 0 notes. 0 mention urgency or legal risk.
 
-## 📁 joplin-full-export
-- Notes: 0
-- Flagged: 0
-- Keywords: 
-- Last updated: 
-- Summary: This folder contains 0 notes. 0 mention urgency or legal risk.
-
-## 📁 joplin-full-export/_resources
+## 📁 _resources
 - Notes: 0
 - Flagged: 0
 - Keywords: 
